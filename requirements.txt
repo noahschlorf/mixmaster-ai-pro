@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydub
+librosa
+sclib
+eyed3
+mutagen
+python-dotenv
+sqlalchemy
+alembic
+psycopg2-binary
+celery
+redis
